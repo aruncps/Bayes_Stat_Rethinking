@@ -1,11 +1,27 @@
 ---
-title: "Bayes Statistical Rethinking (Notebook)"
+title: "Learning - Bayes Statistical Rethinking by Richard McElreath"
 output: html_notebook
 ---
 
-This is an [R Markdown](http://rmarkdown.rstudio.com) Notebook. When you execute code within the notebook, the results appear beneath the code. 
+****
+### My Preface
+My problem was to prepare a healthcare summary with comparitive stats along with driver or the cause for a condition or poor or superb performance of a healthcare institution! 
 
+As this Author rightly put, I was not confident on the p-calues or coeffients or accuracies, to consider a diagnosis or a procedure as a driver. I needed to tell a story for a medical director or physician to consider these drivers as a takeaway to investigate or ponder further! 
+
+At this juncture of dilemma, I got introduced to Bayes Network! 
+
+I ran from end to end, reviewing many pdfs, youtube snippets and even the famous coursera course on Bayesian Network aka Probabilitic Graphical models, with less return on the effort put! They initial chapters were easy, later they were getting too complex.
+
+Then I landed on the The book Think Bayes by Allen Downey was savior, along with his youtube tutorial [Bayesian Decision Analysis](https://www.youtube.com/watch?v=fsdbneHgi58) on the same! 
+
+Now trying to expand with Richard McElreath, whose book has been called out by many authors & readers! Lets see how far can I go... fingers crossed!!!!
+
+****
+##### DELETE LATER
 Try executing this chunk by clicking the *Run* button within the chunk or by placing your cursor inside it and pressing *Ctrl+Shift+Enter*. 
+
+****
 
 ### All models are wrong, but some are useful.
 
